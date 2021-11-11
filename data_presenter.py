@@ -28,10 +28,3 @@ for line in open_file:
 
 open_file.close()
 
-# open_file = open('CupcakeInvoices.csv')
-
-# for line in open_file:
-#     line_words = line.split(',')
-#     print(line_words)
-
-# open_file.close()
